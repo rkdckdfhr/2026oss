@@ -39,8 +39,8 @@
 4. dev/a 병합 완료
 ![스크린샷](images/main_병합수정후커밋09.png)
 
+5. dev/b mul.cpp mod.cpp 코드 수정
 
-5. dev/b mul.cpp mod.cpp 코드 수정 
 ![스크린샷](images/dev_b-mul_cpp수정01.png)
 ![스크린샷](images/dev_b-mod_cpp수정02.png)
 
