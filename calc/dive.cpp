@@ -11,5 +11,5 @@ int dive(int x, int y)
 		x = sub(x, y);
 	}
 
-	return 0;
+	return cnt;
 }

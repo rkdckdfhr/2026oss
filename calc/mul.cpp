@@ -1,4 +1,5 @@
 #include "add.h"
+#include "mul.h"
 
 int mul(int x, int y)
 {
@@ -7,7 +8,7 @@ int mul(int x, int y)
 
 	for (int i = 0;i < y;i++)
 	{
-		sum = add(x, y);
+		sum = add(sum, x);
 	}
 	return sum;
 }
